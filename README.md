@@ -94,9 +94,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arsenic-01/Arsenic-01/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
+
 <!--
 **TanayHingane/TanayHingane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
