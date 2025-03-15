@@ -95,9 +95,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/pacman-contribution-graph.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
