@@ -94,7 +94,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/TanayHingane.svg" alt="Pacman animation" />
 
 ###
 <!--
