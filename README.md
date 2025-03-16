@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently learning data structures and algorithms<br>📚 I'm currently working on Spotify clown website<br>🎯 Goals: Becoming Full-stack Developer<br>🎲 Fun fact: I'm a Expertise Video Editor and Photographer</p>
+<p align="left">✨ I'm currently learning data structures and algorithms<br>📚 I'm currently working on Spotify clown website<br>🎯 Goals: Becoming Full-stack Developer<br>🎲 Fun fact: I'm a Expertise Video Editor and Photographer<br>📫 How to reach me: victus0307@gmail.com<br> 😄 Pronouns: he/him</p>
 
 ###
 
@@ -110,7 +110,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/TanayHingane/TanayHingane/output/github-snake.svg" />
 </picture>
-###
+
 
 <!--
 **TanayHingane/TanayHingane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
