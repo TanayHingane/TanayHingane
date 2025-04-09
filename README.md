@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently learning data structures and algorithms<br>📚 I'm currently working on Spotify clown website<br> 👔 Portfolio: <a href="https://victus03.vercel.app/">https://victus03.vercel.app</a><br>🎯 Goals: Becoming Full-stack Developer<br>🎲 Fun fact: I'm a Expertise Video Editor and Photographer<br>📫 How to reach me: <a href="mailto:victus0307@gmail.com?subject=Hello%20I'm%20____%20from%20____%20company&body=I%20want%20to%20start%20a%20new%20project%20about%20____%20and%20time%20duration%20is%20___%20days.">victus0307@gmail.com</a><br> 😄 Pronouns: he/him</p>
+<p align="left">✨ I'm currently learning data structures and algorithms<br>📚 I'm currently working on Spotify clown website<br> 👔 Portfolio: <a href="https://victus03.vercel.app/">https://tanayhingane.vercel.app</a><br>🎯 Goals: Becoming Full-stack Developer<br>🎲 Fun fact: I'm a Expertise Video Editor and Photographer<br>📫 How to reach me: <a href="mailto:victus0307@gmail.com?subject=Hello%20I'm%20____%20from%20____%20company&body=I%20want%20to%20start%20a%20new%20project%20about%20____%20and%20time%20duration%20is%20___%20days.">victus0307@gmail.com</a><br> 😄 Pronouns: he/him</p>
 
 ###
 
