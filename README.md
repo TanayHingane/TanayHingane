@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tanay Hingane and I'm a pursuing Diploma in Computer Technology (5th sem)</p>
+<p align="left">My name is Tanay Hingane and I'm a pursuing Diploma in Computer Technology (6th sem)</p>
 
 ###
 
