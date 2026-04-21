@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Tanay Hingane and I'm a pursuing Diploma in Computer Technology (6th sem)</p>
+<p align="left">My name is Tanay Hingane and I'm a pursuing Diploma in Computer Technology (6th sem)</p><br>
+![](https://komarev.com/ghpvc/?username=TanayHingane&color=dc143c)
 
 ###
 
