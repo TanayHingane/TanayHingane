@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">My name is Tanay Hingane and I'm a pursuing Diploma in Computer Technology (6th sem)</h3><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TanayHingane&label=Profile%20views&color=0e75b6&style=flat" alt="TanayHingane" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TanayHingane&label=Profile%20views&color=0e75b6&style=flat" alt="TanayHingane" /> <a href="https://drive.google.com/file/d/1N1KwW39BhF2uyUUHjek42Vr4G6GCNKB3/view?usp=drive_link" target="_blank">Check Resume </a> </p>
 
 ###
 
