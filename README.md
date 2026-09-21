@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+
 ###
-<h3 align="left">
-  My name is Tanay Hingane
-</h3>
+
+<h3 align="left">My name is Tanay Hingane</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TanayHingane&label=Profile%20views&color=0e75b6&style=flat" alt="TanayHingane" />
