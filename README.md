@@ -14,9 +14,7 @@
 
 ###
 🙋‍♂️ Hey there! I'm **Tanay Hingane**, a passionate full-stack developer who loves turning ideas into real-world applications.
-<a href="https://drive.google.com/file/d/1N1KwW39BhF2uyUUHjek42Vr4G6GCNKB3/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-blue?style=flat" alt="Resume" />
-</a><br>
+<br>
 🚀 **Latest Build:** Check out [StudyStack](https://studystack01.vercel.app/) – a collaborative notes and learning platform.<br>
 ☁️ **Cloud Project:** Built [SafeStore03](https://safestore03.vercel.app/) – a secure cloud storage platform inspired by Google Drive.<br>
 ⚡ **File Sharing:** Check out [SafeBeam03](https://safebeam03.vercel.app/) – a lightweight file-sharing platform with OTP-based access and automatic file deletion.<br>
@@ -93,7 +91,10 @@
 
 ###
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1198554997386915880) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanayhingane) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/devVictus) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devVictus) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tanay.H03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victus0307@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1198554997386915880) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanayhingane) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/devVictus) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devVictus) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tanay.H03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victus0307@gmail.com) &nbsp;
+<a href="https://drive.google.com/file/d/1N1KwW39BhF2uyUUHjek42Vr4G6GCNKB3/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-blue?style=flat" alt="Resume" />
+</a>
 
 ###
 
