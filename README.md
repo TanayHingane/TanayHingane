@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- <h1 align="left">Hey 👋 What's up?</h1> -->
 
-###
-
-<h3 align="left">My name is Tanay Hingane</h3>
+<h3 align="left">Hey there! I'm **Tanay Hingane**, a passionate full-stack developer who loves turning ideas into real-world applications and experimenting with new technologies.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TanayHingane&label=Profile%20views&color=0e75b6&style=flat" alt="TanayHingane" />
@@ -17,7 +15,6 @@
 <h2 align="left">About me</h2>
 
 ###
-🙋‍♂️ Hey there! I'm **Tanay Hingane**, a passionate full-stack developer who loves turning ideas into real-world applications and experimenting with new technologies.<br>
 🚀 **Latest Build:** Check out [StudyStack](https://studystack01.vercel.app/) – a collaborative notes and learning platform.<br>
 ☁️ **Cloud Project:** Built [SafeStore03](https://safestore03.vercel.app/) – a secure cloud storage platform inspired by Google Drive.<br>
 ⚡ **File Sharing:** Check out [SafeBeam03](https://safebeam03.vercel.app/) – a lightweight file-sharing platform with OTP-based access and automatic file deletion.<br>
