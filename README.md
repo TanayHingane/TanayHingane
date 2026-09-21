@@ -3,13 +3,13 @@
 ###
 
 <h3 align="left">My name is Tanay Hingane</h3>
-<p align="left">
+
   <img src="https://komarev.com/ghpvc/?username=TanayHingane&label=Profile%20views&color=0e75b6&style=flat" alt="TanayHingane" />
   &nbsp;
   <a href="https://drive.google.com/file/d/1N1KwW39BhF2uyUUHjek42Vr4G6GCNKB3/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-blue?style=flat" alt="Resume" />
   </a>
-</p>
+
 
 ###
 
