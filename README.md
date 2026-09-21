@@ -17,19 +17,12 @@
 
 ###
 🙋‍♂️ Hey there! I'm **Tanay Hingane**, a passionate full-stack developer who loves turning ideas into real-world applications and experimenting with new technologies.
-
-🚀 **Latest Build:** Check out [StudyStack](https://studystack01.vercel.app/) – a collaborative notes and learning platform built with **Next.js, Tailwind CSS, Appwrite, Google Drive API & NextAuth**.
-
-☁️ **Cloud Project:** Built [SafeStore03](https://safestore03.vercel.app/) – a secure cloud storage platform inspired by Google Drive, featuring authentication, file uploads and cloud storage.
-
+🚀 **Latest Build:** Check out [StudyStack](https://studystack01.vercel.app/) – a collaborative notes and learning platform.
+☁️ **Cloud Project:** Built [SafeStore03](https://safestore03.vercel.app/) – a secure cloud storage platform inspired by Google Drive.
 ⚡ **File Sharing:** Check out [SafeBeam03](https://safebeam03.vercel.app/) – a lightweight file-sharing platform with OTP-based access and automatic file deletion.
-
 🏢 **Internship Gig:** Recently worked at R3 SYSTEMS – Built a meal recommendation engine "[NutriGenius AI](https://nutrigeniusai.vercel.app/)"
-
 🧠 **Currently Exploring:** Machine Learning, AI, Python, DSA and advanced full-stack development.
-
 🎨 **Fun Fact:** I enjoy video editing, photography and building random projects just to see *"what if I try this?"* 😎
-
 🌐 **Portfolio:** [tanayh03.vercel.app](https://tanayh03.vercel.app/)
 ###
 
