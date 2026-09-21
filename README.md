@@ -1,20 +1,22 @@
 <!-- <h1 align="left">Hey 👋 What's up?</h1> -->
 
-<h3 align="left">Hey there! I'm <b>Tanay Hingane</b>, a passionate full-stack developer who loves turning ideas into real-world applications and experimenting with new technologies.</h3>
+<!-- <h3 align="left">Hey there! I'm <b>Tanay Hingane</b>, a passionate full-stack developer who loves turning ideas into real-world applications and experimenting with new technologies.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TanayHingane&label=Profile%20views&color=0e75b6&style=flat" alt="TanayHingane" />
   &nbsp;
-  <a href="https://drive.google.com/file/d/1N1KwW39BhF2uyUUHjek42Vr4G6GCNKB3/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-blue?style=flat" alt="Resume" />
-  </a>
+  
 </p>
 
-###
+### -->
 
 <h2 align="left">About me</h2>
 
 ###
+🙋‍♂️ Hey there! I'm **Tanay Hingane**, a passionate full-stack developer who loves turning ideas into real-world applications.
+<a href="https://drive.google.com/file/d/1N1KwW39BhF2uyUUHjek42Vr4G6GCNKB3/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-blue?style=flat" alt="Resume" />
+</a>
 🚀 **Latest Build:** Check out [StudyStack](https://studystack01.vercel.app/) – a collaborative notes and learning platform.<br>
 ☁️ **Cloud Project:** Built [SafeStore03](https://safestore03.vercel.app/) – a secure cloud storage platform inspired by Google Drive.<br>
 ⚡ **File Sharing:** Check out [SafeBeam03](https://safebeam03.vercel.app/) – a lightweight file-sharing platform with OTP-based access and automatic file deletion.<br>
