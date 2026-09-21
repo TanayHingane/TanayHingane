@@ -1,6 +1,6 @@
 <!-- <h1 align="left">Hey 👋 What's up?</h1> -->
 
-<h3 align="left">Hey there! I'm **Tanay Hingane**, a passionate full-stack developer who loves turning ideas into real-world applications and experimenting with new technologies.</h3>
+<h3 align="left">Hey there! I'm <b>Tanay Hingane</b>, a passionate full-stack developer who loves turning ideas into real-world applications and experimenting with new technologies.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TanayHingane&label=Profile%20views&color=0e75b6&style=flat" alt="TanayHingane" />
