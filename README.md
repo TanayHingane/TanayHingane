@@ -16,9 +16,21 @@
 <h2 align="left">About me</h2>
 
 ###
+🙋‍♂️ Hey there! I'm **Tanay Hingane**, a passionate full-stack developer who loves turning ideas into real-world applications and experimenting with new technologies.
 
-<p align="left">✨ I'm currently learning Machine Learning using Py<br>📚 I'm currently working on AIML Projects<br> 👔 Portfolio: <a href="https://tanayh03.vercel.app/">https://tanayh03.vercel.app</a><br>🎯 Goals: Becoming Full-stack Developer<br>🎲 Fun fact: I'm an Expert Video Editor and Photographer<br>📫 How to reach me: <a href="mailto:victus0307@gmail.com?subject=Hello%20I'm%20____%20from%20____%20company&body=I%20want%20to%20start%20a%20new%20project%20about%20____%20and%20time%20duration%20is%20___%20days.">victus0307@gmail.com</a><br> 😄 Pronouns: he/him</p>
+🚀 **Latest Build:** Check out [StudyStack](https://studystack01.vercel.app/) – a collaborative notes and learning platform built with **Next.js, Tailwind CSS, Appwrite, Google Drive API & NextAuth**.
 
+☁️ **Cloud Project:** Built [SafeStore03](https://safestore03.vercel.app/) – a secure cloud storage platform inspired by Google Drive, featuring authentication, file uploads and cloud storage.
+
+⚡ **File Sharing:** Check out [SafeBeam03](https://safebeam03.vercel.app/) – a lightweight file-sharing platform with OTP-based access and automatic file deletion.
+
+🏢 **Internship Gig:** Recently worked at R3 SYSTEMS – Built a meal recommendation engine "[NutriGenius AI](https://nutrigeniusai.vercel.app/)"
+
+🧠 **Currently Exploring:** Machine Learning, AI, Python, DSA and advanced full-stack development.
+
+🎨 **Fun Fact:** I enjoy video editing, photography and building random projects just to see *"what if I try this?"* 😎
+
+🌐 **Portfolio:** [tanayh03.vercel.app](https://tanayh03.vercel.app/)
 ###
 
 <h2 align="left">I code with</h2>
